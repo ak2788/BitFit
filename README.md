@@ -31,9 +31,10 @@ Portrait View:
 
 <img src='https://github.com/user-attachments/assets/43c04556-dfbc-4e9e-bff9-8bac155bb807' title='Video Walkthrough' width='30%' height='auto' alt='Video Walkthrough' />
 
+
 Landscape View:
 
-<img src='https://github.com/user-attachments/assets/acbd0dff-a15f-4678-9f8c-5bf77bc48f2c' title='Video Walkthrough Landscape' width='80%' height='auto' alt='Video Walkthrough Landscape' />
+<img src='https://github.com/user-attachments/assets/acbd0dff-a15f-4678-9f8c-5bf77bc48f2c' title='Video Walkthrough Landscape' width='60%' height='auto' alt='Video Walkthrough Landscape' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIFs created with Canva
